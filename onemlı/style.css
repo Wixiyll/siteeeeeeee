@@ -1,0 +1,35 @@
+.div345{
+    margin-left: 10px;
+    color: rgb(97, 47, 6);
+
+}
+
+
+.pasta{
+    text-align: center;
+    margin-top: -80px;
+
+}
+
+.kurt{
+    position:absolute;
+    top: 40px;
+    right: 10px;
+    width: 250px;
+    height: 200px;
+    border-style: solid;
+    border-radius: 3%;
+    border-color: black;
+
+
+}
+
+
+.hr{
+    height: 1px;
+    background-color: black;
+    border: none;
+
+
+
+}
